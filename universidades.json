@@ -1,0 +1,429 @@
+[
+  {
+    "nombre": "Uach (Campus 1)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Artes", "carreras": ["Artes visuales", "Danza", "Música", "Producción Audiovisual", "Teatro"] },
+      { "nombre": "Ciencias Políticas y Sociales", "carreras": ["Administración Pública y Ciencia Política", "Ciencias de la Comunicación", "Psicologia", "Relaciones Internacionales"] },
+      { "nombre": "Ciencias Agrotecnológica", "carreras": ["Administración Agrotecnológicas", "Ingeniería en Desarrollo Territorial", "Ingeniería en Horticultura"] },
+      { "nombre": "Derecho", "carreras": ["Ciencias Forenses", "Derecho"] },
+      { "nombre": "Economía Internacional", "carreras": ["Economia Internacional"] },
+      { "nombre": "Odontología", "carreras": ["Estomatología"] }
+    ]
+  },
+  {
+    "nombre": "Uach (Campus 2)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Contaduría y Administración Pública", "carreras": ["Contador Público", "Administración de Empresas", "Administración Financiera", "Administración y Gestión Pública", "Inteligencia de Negocios", "Negocios Internacionales"] },
+      { "nombre": "Ingeniería", "carreras": ["Ing. Aeroespacial", "Ing. Civil", "Ing. Computación", "Ing. Minas y Metalurgia", "Ing. Topográfica", "Ing. Procesos Industriales", "Ing. Física", "Ing. Geología", "Ing. Ciencia de Datos y Matemáticas Aplicadas"] },
+      { "nombre": "Medicina y Ciencias Biomédicas", "carreras": ["Medico Cirujano y Partero", "Salud Pública", "Terapia Física", "Ing. Biomedica"] },
+      { "nombre": "Químicas", "carreras": ["Ing. Alimentos", "Ing. Química", "Química", "Químico Biólogo Parasitólogo"] },
+      { "nombre": "Ciencias de la Cultura Física", "carreras": ["Educación Física", "Entrenamiento del Deporte", "Motricidad Humana"] },
+      { "nombre": "Enfermería y Nutriología", "carreras": ["Nutriología", "Enfermería"] }
+    ]
+  },
+  {
+    "nombre": "Uach (Campus 3)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Ecologia y Zootecnia", "carreras": ["Ecologia", "Zootecnia en Sistemas de Producción"] }
+    ]
+  },
+  {
+    "nombre": "Instituto Tecnológico de Chihuahua 1",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración", "Ing. Administración", "Ing. Electromecánica", "Ing. Electrónica", "Ing. Materiales", "Ing. Eléctrica", "Ing. Mecánica", "Ing. Química", "Ing. Industrial", "Ing. Mecatronica", "Ing. Sistemas Automotrices", "Ing. Industrial (virtual)", "Ing. Gestión Empresarial (virtual)"] }
+    ]
+  },
+  {
+    "nombre": "Instituto Tecnológico de Chihuahua 2",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Arquitectura", "Administración", "Ingenieria Industrial", "Ingenieria en diseño Industrial", "Ingenieria en Sistemas Computacionales", "Ingenieria Informática", "Ingenieria en Gestión Empresarial"] }
+    ]
+  },
+  {
+    "nombre": "Utch (Campus 1)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Negocios y Mercadotecnia", "Ing. Industrial", "Ing. Energía y Desarrollo Sostenible", "Ing. Mantenimiento Industrial", "Ing. Mecatrónica", "Ing. Tecnologías de la Información e Innovación Digital"] }
+    ]
+  },
+  {
+    "nombre": "Utch (Campus Bis)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Educación", "Negocios y Mercadotecnia", "Ing. Industrial", "Ing. En Tecnologías de la información e innovación digital"] }
+    ]
+  },
+  {
+    "nombre": "Utch (Campus Sur)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Gastronomía", "Ing. Civil", "Ing. Logística", "Ing. Nanotecnología"] }
+    ]
+  },
+  {
+    "nombre": "Universidad Pedagógica Nacional (UPNECH)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Intervención educativa", "Pedagogía", "Educación preescolar y primaria para el medio indigena", "Educación y desarrollo comunitario"] }
+    ]
+  },
+  {
+    "nombre": "Universidad Politécnica de Chihuahua",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Ingeniería Ambiental Y Sustentabilidad", "Ingeniería Aeronáutica En Manufactura", "Ing. Industrial", "Ingeniería Mecánica Automotriz", "Administración", "Ingeniería En Electromovilidad"] }
+    ]
+  },
+  {
+    "nombre": "Escuela de Antropología e Historia (INAH)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Arqueología", "Antropología social", "Antropología física", "Antropología lingüística"] }
+    ]
+  },
+  {
+    "nombre": "Escuela de Trabajo Social",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Trabajo Social"] }
+    ]
+  },
+  {
+    "nombre": "Centro de Actualización del Magisterio",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Educación Inicial"] }
+    ]
+  },
+  {
+    "nombre": "Escuela Normal (Luis Urías Belderráin)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Licenciatura en Inclusión Educativa", "Educación preescolar", "Educación primaria"] }
+    ]
+  },
+  {
+    "nombre": "Escuela Normal Superior (José E. Medrano)",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Enseñanza y Aprendizaje de", "carreras": ["Biología", "Inglés", "Física", "Geografía", "Español", "Historia", "Química", "Telesecundaria", "Educación Física"] }
+    ]
+  },
+  {
+    "nombre": "Conservatorio de música",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Música", "Músico Instrumentista", "Composición Musical"] }
+    ]
+  },
+  {
+    "nombre": "Instituto Superior de Seguridad Chihuahua",
+    "tipo": "Pública",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Alta Dirección y Administración de Emergencias", "Alta Dirección y Tecnología Policial"] }
+    ]
+  },
+  {
+    "nombre": "Instituto Tecnológico de Monterrey",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Completas", "carreras": ["Arquitectura", "Licenciatura en Derecho", "Ingeniería Civil", "Ing. Biotecnología", "Ing. en Tecnologías Computacionales", "Ing. Industrial y de Sistemas", "Ing. Mecatrónica", "Ingeniería Mecánica", "Estrategia y Transformación de Negocios", "Finanzas", "Negocios Internacionales", "Psicología Clínica y de la Salud"] },
+      { "nombre": "Hasta 2° semestre", "carreras": ["Ing. Biomédica", "Ing. Alimentos", "Ing. Biosistemas Agroalimentarios", "Ing. en Desarrollo Sustentable", "Ing. en Electrónica y Semiconductores", "Ing. en Física Industrial", "Ing. en Innovación y Desarrollo", "Ing. en Inteligencia Artificial y Ciencia de Datos", "Ing. en Nanotecnología y Materiales", "Ing. en Robótica y Sistemas Inteligentes", "Ing. en Transformación Digital de Negocios", "Ing. Química", "Arte Digital", "Biociencias", "Comunicación y Producción Digital", "Diseño", "Economía", "Letras y Emprendimiento Editorial", "Gobierno y Transformación Pública", "Humanidades Digitales e Inteligencia Artificial", "Innovación y Transformación Educativa", "Nutrición y Bienestar Integral", "Relaciones Internacionales", "Tecnología y Producción Musical", "Urbanismo", "Médico Cirujano", "Médico Cirujano Odontólogo"] },
+      { "nombre": "Hasta 3° semestre", "carreras": ["Contaduría Pública y Finanzas", "Desarrollo de Talento y Cultura Organizacional", "Emprendimiento e Innovación", "Inteligencia de Negocios", "Lic. Mercadotecnia"] }
+    ]
+  },
+  {
+    "nombre": "Humanitas",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración", "Derecho", "Contabilidad", "Psicología", "Arquitectura", "Diseño Gráfico"] }
+    ]
+  },
+  {
+    "nombre": "Universidad La Salle",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Ing. Sistemas Computacionales", "Ing. Biomedica", "Ing. Civil", "Ing. Industrial", "Ing. Diseño Industrial", "Ing. Mecatrónica", "Comercio Internacional", "Finanzas y Contaduría", "Gestión y Desarrollo de Empresas", "Mercadotecnia", "Nutrición", "Fisioterapia", "Gastronomía", "Idiomas y Relaciones Públicas", "Psicología", "Derecho con Acentuación en Derecho de América del Norte"] }
+    ]
+  },
+  {
+    "nombre": "TecMilenio",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Creación y Desarrollo de Empresas", "Comercio y negocios internacionales", "Mercadotecnia", "Ing. Desarrollo de software", "Ing. Industrial", "Ing. Mecatronica", "Derecho", "Diseño y Animación"] }
+    ]
+  },
+  {
+    "nombre": "ISAD Instituto de Arquitectura y Diseño",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Arquitectura y espacio interior", "Arquitectura y Territorio", "Diseño Gráfico y Animación", "Diseño de Producto y Negocios"] }
+    ]
+  },
+  {
+    "nombre": "Claustro",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Derecho", "Criminología", "Psicología Criminologica", "Psicología (general)", "Psicopedagogía", "Educación Especial", "Ingeniería en Logística", "Contaduría Pública"] }
+    ]
+  },
+  {
+    "nombre": "Univer",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración de empresas", "Ciencias de la Comunicación", "Comercio Internacional y Aduanas", "Contaduría", "Derecho", "Diseño Gráfico", "Pedagogía", "Psicología", "Relaciones Industriales"] }
+    ]
+  },
+  {
+    "nombre": "Udech",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración", "Fisioterapia", "Derecho", "Administración Financiera", "Ing. industrial en Calidad y Productividad", "Organización y producción de eventos"] }
+    ]
+  },
+  {
+    "nombre": "Universidad de Durango",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Medicina", "Nutrición", "Cosmetología", "Diseño de Modas", "Comunicación", "Publicidad y Relaciones Públicas", "Arquitectura", "Administración y Gestión Empresarial", "Gastronomía", "Psicología", "Derecho en Litigación Oral", "Criminología", "Ing. Biomédica", "Ing. Inteligencia Artificial y Seguridad en Software"] }
+    ]
+  },
+  {
+    "nombre": "Elizabeth Setón",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Ciencias de la Educación"] }
+    ]
+  },
+  {
+    "nombre": "IESFH",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "Instituto UCH",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "Isag Gastronomía",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Licenciatura en Gastronomía Chef"] }
+    ]
+  },
+  {
+    "nombre": "Instituto José David",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Comunicación Humana"] }
+    ]
+  },
+  {
+    "nombre": "Marcela Camarillo",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Diseño de Modas"] }
+    ]
+  },
+  {
+    "nombre": "Isthmus Norte",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Arquitectura"] }
+    ]
+  },
+  {
+    "nombre": "CESCIJUC",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Derecho", "Criminalística", "Administración de instituciones penitenciarias", "Administración de Empresas", "Contaduría Pública", "Ingeniería en Mecatrónica", "Psicopedagogía", "Pedagogía", "Ciencias de la Comunicación"] }
+    ]
+  },
+  {
+    "nombre": "Cesno",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología Organizacional", "Derecho", "Administración de Empresas", "Psicología Infantil", "Contaduría Pública"] }
+    ]
+  },
+  {
+    "nombre": "Prepa Ignacio Allende (Superior)",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración de Empresas", "Contaduría Pública", "Derecho"] }
+    ]
+  },
+  {
+    "nombre": "Jeruel",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "Florencia Nightingale",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Enfermería"] }
+    ]
+  },
+  {
+    "nombre": "Centro Cultural Universitario",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración de Empresas", "Agronegocios", "Arquitectura", "Ciencia Forense", "Comunicación y Periodismo", "Contabilidad", "Criminología", "Derecho", "Diseño Gráfico", "Edificación y Admon. de Obras", "Gastronomía", "Ingeniería en Gestión Empresarial", "Ingeniería en Logística", "Ingeniería en Tecnologías de la Información y Comunicación", "Ingeniería Industrial", "Ingeniería Industrial y de Sistemas", "Negocios y Mercadotecnia", "Pedagogía", "Psicología", "Psicología Industrial", "Psicopedagogía", "Trabajo Social"] }
+    ]
+  },
+  {
+    "nombre": "Centro Universitario",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Contaduría Pública", "Gestión Empresarial y de Negocios", "Administración de Empresas", "Mercadotecnia"] }
+    ]
+  },
+  {
+    "nombre": "Vizcaya de las Américas",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración de Empresas", "Contaduría Pública", "Derecho", "Criminología y Criminalistica", "Ciencias de la Educación", "Arquitectura", "Comercio internacional y aduanas", "Gastronomía", "Enfermería", "Fisioterapia", "Nutrición", "Psicología", "Ing. Civil", "Ing. Procesos de Manufactura"] }
+    ]
+  },
+  {
+    "nombre": "Elpac",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "CARL ROGERS",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "Sigmund Freud",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Psicología"] }
+    ]
+  },
+  {
+    "nombre": "Escograf",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Diseño Gráfico"] }
+    ]
+  },
+  {
+    "nombre": "URN",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Negocios Internacionales", "Nutrición y Gastronomía", "Administración de Empresas Turísticas", "Creación y Desarrollo de Empresas", "Ingeniería Industrial en Calidad y Productividad"] }
+    ]
+  },
+  {
+    "nombre": "Palmore",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Artes Visuales", "Ing. Multimedia"] }
+    ]
+  },
+  {
+    "nombre": "Iesch",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Contabilidad Pública", "Administración de Empresas", "Relaciones Industriales", "Sistemas Computacionales"] }
+    ]
+  },
+  {
+    "nombre": "Unidep",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Administración de Empresas", "Arquitectura", "Derecho", "Diseño Gráfico", "Pedagogía", "Ing. Industrial y de sistemas"] }
+    ]
+  },
+  {
+    "nombre": "Cuadro G",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Artes Escenicas", "carreras": ["Canto", "Danza", "Actuación", "Teatro Músical"] }
+    ]
+  },
+  {
+    "nombre": "Alexia",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Enfermería"] }
+    ]
+  },
+  {
+    "nombre": "VEP Veterinaria",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Medicina Veterinaria"] }
+    ]
+  },
+  {
+    "nombre": "UVM",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Salud", "carreras": ["Psicologia", "Nutricion", "Medicina", "Fisioterapia PreMedico", "Fisioterapia", "Enfermeria"] },
+      { "nombre": "Diseño e Ingeniería", "carreras": ["Arquitectura", "Diseño Industrial", "Diseño Y Comunicacion Grafica", "Diseño De La Moda E Industria Del Vestido", "Ingenieria Mecatronica", "Ingenieria Mecatronica Con Enfoque Automotriz", "Ingenieria Industrial y de Sistemas", "Ingenieria En Sistemas Computacionales"] },
+      { "nombre": "Negocios y Otros", "carreras": ["Gastronomia", "Derecho", "Criminologia", "Mercadotecnia", "Finanzas y Banca", "Lenguas Extranjeras", "Administracion De Negocios Internacionales", "Comercio y Logistica Internacionales", "Mercadotecnia y Publicidad en entornos digitales"] }
+    ]
+  },
+  {
+    "nombre": "UNEA",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Derecho", "Psicología", "Administración de Empresas", "Contaduría Pública", "Ing. industrial", "Ciencias de la Educación", "Comercio Internacional"] }
+    ]
+  },
+  {
+    "nombre": "Cudach",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Arquitectura"] }
+    ]
+  },
+  {
+    "nombre": "Educem",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Educación", "Derecho", "Diseño Gráfico y Animación", "Psicología Social", "Administración", "Ing. Industrial", "Pedagogía"] }
+    ]
+  },
+  {
+    "nombre": "Sach Aviación",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Sobrecargo", "Piloto Privado", "Piloto comercial", "Tec. en Mto. Clase I y II", "Oficial de Operaciones"] }
+    ]
+  },
+  {
+    "nombre": "Urn Aviación",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Sobrecargo", "Piloto Privado", "Piloto comercial", "Dirección y Administración de Aeropuertos"] }
+    ]
+  },
+  {
+    "nombre": "Vivevolando",
+    "tipo": "Privada",
+    "categorias": [
+      { "nombre": "Carreras", "carreras": ["Sobrecargo", "Piloto Privado", "Piloto comercial", "Oficial de Operaciones aeronáuticas", "Técnico en Mantenimiento aeronáutico"] }
+    ]
+  }
+]
